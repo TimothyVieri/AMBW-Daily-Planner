@@ -63,6 +63,8 @@ Bagian ini adalah panduan bagi dosen atau penguji untuk menjalankan proyek ini d
     flutter run
     ```
     Aplikasi akan berjalan dan terhubung langsung ke database yang sudah disiapkan.
+    
+    **PASTIKAN SETELAH INSERT, EDIT, UPDATE, DAN DELETE LAKUKAN HOT RESET BUKAN HOT RELOAD**
 
 ---
 
