@@ -2,14 +2,6 @@
 
 Aplikasi Flutter sederhana untuk mencatat kegiatan harian (to-do list) yang dibuat sebagai Proyek Ujian Akhir Semester. Aplikasi ini mencakup fitur autentikasi, database cloud real-time, dan UI yang bersih serta modern.
 
-## 📸 Screenshot Aplikasi
-
-| Halaman Utama | Tambah Tugas | Halaman Login |
-| :---: |:---:|:---:|
-| ![Tampilan Daftar Tugas](screenshots/home.png) | ![Dialog Tambah Tugas](screenshots/add_task.png) | ![Tampilan Halaman Login](screenshots/login.png) |
-
-*(Catatan: Ganti nama file `home.png`, `add_task.png`, dan `login.png` sesuai dengan nama file screenshot yang kamu simpan di dalam folder `screenshots`)*
-
 ## ✨ Fitur Utama
 
 -   [x] **Get Started Screen**: Halaman perkenalan yang hanya muncul satu kali saat aplikasi pertama kali di-install.
